@@ -1,0 +1,14 @@
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Domain\bin\Debug\net8.0\EmployeeAttendance.Domain.deps.json
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Domain\bin\Debug\net8.0\EmployeeAttendance.Domain.dll
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Domain\bin\Debug\net8.0\EmployeeAttendance.Domain.pdb
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Domain\obj\Debug\net8.0\EmployeeAttendance.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Domain\obj\Debug\net8.0\EmployeeAttendance.Domain.AssemblyInfoInputs.cache
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Domain\obj\Debug\net8.0\EmployeeAttendance.Domain.AssemblyInfo.cs
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Domain\obj\Debug\net8.0\EmployeeAttendance.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Domain\obj\Debug\net8.0\EmployeeAttendance.Domain.dll
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Domain\obj\Debug\net8.0\refint\EmployeeAttendance.Domain.dll
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Domain\obj\Debug\net8.0\EmployeeAttendance.Domain.pdb
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Domain\obj\Debug\net8.0\ref\EmployeeAttendance.Domain.dll
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Domain\obj\Debug\net8.0\EmployeeAttendance.Domain.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Domain\bin\Debug\net8.0\EmployeeAttendance.Domain.runtimeconfig.json
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Domain\obj\Debug\net8.0\EmployeeAttendance.Domain.genruntimeconfig.cache

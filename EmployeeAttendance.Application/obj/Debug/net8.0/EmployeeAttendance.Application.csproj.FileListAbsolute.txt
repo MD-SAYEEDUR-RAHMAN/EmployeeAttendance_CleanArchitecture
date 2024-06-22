@@ -1,0 +1,15 @@
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Application\bin\Debug\net8.0\EmployeeAttendance.Application.deps.json
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Application\bin\Debug\net8.0\EmployeeAttendance.Application.dll
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Application\bin\Debug\net8.0\EmployeeAttendance.Application.pdb
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Application\bin\Debug\net8.0\EmployeeAttendance.Domain.dll
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Application\bin\Debug\net8.0\EmployeeAttendance.Domain.pdb
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Application\obj\Debug\net8.0\EmployeeAttendance.Application.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Application\obj\Debug\net8.0\EmployeeAttendance.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Application\obj\Debug\net8.0\EmployeeAttendance.Application.AssemblyInfoInputs.cache
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Application\obj\Debug\net8.0\EmployeeAttendance.Application.AssemblyInfo.cs
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Application\obj\Debug\net8.0\EmployeeAttendance.Application.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Application\obj\Debug\net8.0\Employee.4F4DAD27.Up2Date
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Application\obj\Debug\net8.0\EmployeeAttendance.Application.dll
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Application\obj\Debug\net8.0\refint\EmployeeAttendance.Application.dll
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Application\obj\Debug\net8.0\EmployeeAttendance.Application.pdb
+C:\Users\Nohan\source\repos\Employee_Attendance\EmployeeAttendance.Application\obj\Debug\net8.0\ref\EmployeeAttendance.Application.dll
